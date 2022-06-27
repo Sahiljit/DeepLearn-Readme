@@ -1,6 +1,6 @@
 # DeepLearn
 
-This is an E-Learning Platform.  Do watch [the Demo](https://www.youtube.com/watch?v=nSpWLE-Vbbs).
+This is an E-Learning Platform.  Do watch [the Demo](https://www.youtube.com/watch?v=nSpWLE-Vbbs) (watch at 1.25x)
 
 NOTE- I haven't made code of this project public. If you wanna contribute, then please reach out to me through [sahiljit.com](https://www.sahiljit.com)
 
@@ -103,20 +103,20 @@ NOTE- I haven't made code of this project public. If you wanna contribute, then 
 
 ## Screens
 
-1. Home Screen
-2. Product Screen
-3. Cart Screen
-4. Login Screen
-5. SignUp Screen
-6. Shipping Screen 
-7. Payment Method Screen 
-8. Confirm Order Screen 
-9. Order Status Screen
-10. User Profile Screen
-11. User List Screen
-12. Product List Screen 
-13. Product Edit Screen 
-14. Order List Screen
+1. Home screen
+2. About screen
+3. Courses List screen
+4. Course Details screen
+5. Login/Sign-up screens
+6. Course view screen
+7. Enrolled courses screen
+8. Become-instructor screen 
+9. Instructor dashboard 
+10. Instructor courses screen  
+11. Create Course screen 
+12. Course Edit Screen 
+
+
 
 <br/>
 
