@@ -2,7 +2,7 @@
 
 This is an E-Learning Platform.  Do watch [the Demo](https://www.youtube.com/watch?v=nSpWLE-Vbbs) (watch at 1.25x)
 
-NOTE- I haven't made code of this project public. If you wanna contribute, then please reach out to me through sahiljit.dev
+NOTE- I haven't made code of this project public. If you wanna contribute, then please reach out to me through [sahiljit.dev](https://sahiljit.dev/)
 
 <br/>
 
